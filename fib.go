@@ -1,7 +1,7 @@
 package framework
 
 import (
-    "framework/math"
+    "github.com/tyler66737/framework/math"
 )
 
 func Fib(n int) int {
